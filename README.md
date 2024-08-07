@@ -20,3 +20,15 @@ They will be provided with the different payment options. When the order is plac
 
 ```javascript
 
+git clone git@github.com:54ntu/Ecommerce_MERN_stack.git
+cd backend
+cd frontend
+npm install //to install all the node_modules
+npm run dev for frontend
+npm start for backend
+
+```
+
+# Backend Overview 🧐
+<p>I am trying to follow the structured way of writting backend codes. </p>
+
